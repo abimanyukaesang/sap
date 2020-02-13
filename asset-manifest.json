@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/sap/static/js/main.e128c0c5.chunk.js",
+    "main.js.map": "/sap/static/js/main.e128c0c5.chunk.js.map",
+    "runtime-main.js": "/sap/static/js/runtime-main.64124d8e.js",
+    "runtime-main.js.map": "/sap/static/js/runtime-main.64124d8e.js.map",
+    "static/js/2.f31b3dd6.chunk.js": "/sap/static/js/2.f31b3dd6.chunk.js",
+    "static/js/2.f31b3dd6.chunk.js.map": "/sap/static/js/2.f31b3dd6.chunk.js.map",
+    "index.html": "/sap/index.html",
+    "precache-manifest.2df385078e586ca9195e44481fba8b89.js": "/sap/precache-manifest.2df385078e586ca9195e44481fba8b89.js",
+    "service-worker.js": "/sap/service-worker.js",
+    "static/js/2.f31b3dd6.chunk.js.LICENSE.txt": "/sap/static/js/2.f31b3dd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64124d8e.js",
+    "static/js/2.f31b3dd6.chunk.js",
+    "static/js/main.e128c0c5.chunk.js"
+  ]
+}
